@@ -1,0 +1,1 @@
+python everywordbot.py --consumer_key=insert --consumer_secret=insert   --access_token=insert --token_secret=insert   --source_file=words.txt --index_file=tweet.txt

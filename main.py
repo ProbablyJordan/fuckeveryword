@@ -42,7 +42,7 @@ def tweet(status):
 def get_current_line(index):
 	with open("words.txt") as source_fh:
 		for i in range(index+1):
-			status_str = "fuck " + source_fh.readline().strip()
+			status_str = "i came at " + source_fh.readline().strip()
 		return status_str
 
 class MainHandler(webapp2.RequestHandler):

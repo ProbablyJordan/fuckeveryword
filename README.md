@@ -1,10 +1,10 @@
 <h1> Installation </h1>
 You'll need
 <ob>Python
+Tweepy
 </ob>
-Because Python is love, Python is life.
 <h2> Instructions </h2>
-Edit your usethistostart.sh and insert anything needed in order to use the bot <br>
+Edit your usethistostart.sh and insert anything needed in order to executthe bot <br>
 if you don't have one already get it here: <br>
 https://apps.twitter.com/ <br>
 <h5>something else</h5>
